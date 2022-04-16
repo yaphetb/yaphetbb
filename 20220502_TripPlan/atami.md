@@ -4,7 +4,10 @@
 - [宿泊](#宿泊)
 - [注意事項](#注意事項)
 - [ご参考に](#ご参考に)
-
+  - [初島定期船時刻表](#初島定期船時刻表)
+  - [ホテルプラン](#ホテルプラン)
+  - [熱海トリックアート迷宮館](#熱海トリックアート迷宮館)
+  - [MOA美術館](#MOA美術館)
 
 ## スケジュール
 * 5/2日（東京→熱海）  
@@ -53,4 +56,12 @@
 
 
 ## ご参考に
-### 何かあれば随時更新
+### 初島定期船時刻表
+![Travel in Atami](hatsushima.png)
+### ホテルプラン
+* [プリンス　スマート　イン　熱海](https://www.jalan.net/uw/uwp3200/uww3201init.do?contHideFlg=1&distCd=01&smlCd=210202&yadNo=308473&stayYear=&stayMonth=&stayDay=&dateUndecided=1&roomCount=1&roomCrack=000000&screenId=UWW3101&planCd=03217203&roomTypeCd=0478559&planListNumPlan=6_1_0&groupBookingFlg=)
+* [アタミシーズンホテル【伊東園リゾート】](https://www.jalan.net/uw/uwp3200/uww3201init.do?contHideFlg=1&smlCd=210202&yadNo=339986&stayYear=&stayMonth=&stayDay=&dateUndecided=1&roomCount=1&distCd=01&roomCrack=000000&screenId=UWW3101&planCd=03418773&roomTypeCd=0262125&planListNumPlan=19_0_5&groupBookingFlg=)
+### 熱海トリックアート迷宮館
+* [熱海トリックアート迷宮館HP](https://www.jalan.net/uw/uwp3200/uww3201init.do?contHideFlg=1&smlCd=210202&yadNo=339986&stayYear=&stayMonth=&stayDay=&dateUndecided=1&roomCount=1&distCd=01&roomCrack=000000&screenId=UWW3101&planCd=03418773&roomTypeCd=0262125&planListNumPlan=19_0_5&groupBookingFlg=)
+### MOA美術館
+* [MOA美術館HP](https://www.moaart.or.jp/access/)
