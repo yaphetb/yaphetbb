@@ -7,7 +7,8 @@
   - [初島定期船時刻表](#初島定期船時刻表)
   - [ホテルプラン](#ホテルプラン)
   - [熱海トリックアート迷宮館](#熱海トリックアート迷宮館)
-  - [MOA美術館](#MOA美術館)
+  - [パラフィールド](#パラフィールド)
+  - [ACAO FOREST](#ACAO FOREST)
 
 ## スケジュール
 * 5/2日（東京→熱海）  
@@ -16,13 +17,13 @@
 
 * 5/3日（[初島](https://www.google.co.jp/maps/place/%E5%88%9D%E5%B3%B6/@35.0399865,139.16805,17z/data=!4m13!1m7!3m6!1s0x6019c7acb7dc98cf:0xe5f46fda230c4d6d!2z5Yid5bO2!3b1!8m2!3d35.0405168!4d139.1714529!3m4!1s0x6019c72fd76e407f:0x487867baf88c7faa!8m2!3d35.041111!4d139.168889?hl=ja))
   * 朝8時ほど[熱海港定期船乗り場](https://www.google.co.jp/maps/place/%E7%86%B1%E6%B5%B7%E6%B8%AF%E5%AE%9A%E6%9C%9F%E8%88%B9%E4%B9%97%E3%82%8A%E5%A0%B4/@35.0898266,139.0740379,17z/data=!3m1!4b1!4m5!3m4!1s0x6019be5bfb63c18f:0xb3e04fba482a44bf!8m2!3d35.0898222!4d139.0762266?hl=ja)へ向かい、初島行きの定期船を乗る。
-  * 午後14時ほど熱海行きの定期船で戻り、T.B.D（午後は何をするかを要検討）
+  * 午後14時ほど熱海行きの定期船で戻り、[熱海トリックアート迷宮館](https://www.google.co.jp/maps/place/%E7%86%B1%E6%B5%B7%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%88%E8%BF%B7%E5%AE%AE%E9%A4%A8/@35.0858984,139.0762899,17z/data=!4m12!1m6!3m5!1s0x6019be5bfb63c18f:0xb3e04fba482a44bf!2z54ax5rW35riv5a6a5pyf6Ii55LmX44KK5aC0!8m2!3d35.0898222!4d139.0762266!3m4!1s0x6019be576ccf2f3b:0xd91ad26902591504!8m2!3d35.0865301!4d139.0782484?hl=ja)へ向かう。
   * 夜6時ほどホテルへ向かい、チェックイン。
     * (※初島でのスケジュールは割愛する～)
  
-* 5/4日（[熱海トリックアート迷宮館](https://www.google.co.jp/maps/place/%E7%86%B1%E6%B5%B7%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%88%E8%BF%B7%E5%AE%AE%E9%A4%A8/@35.0858984,139.0762899,17z/data=!4m12!1m6!3m5!1s0x6019be5bfb63c18f:0xb3e04fba482a44bf!2z54ax5rW35riv5a6a5pyf6Ii55LmX44KK5aC0!8m2!3d35.0898222!4d139.0762266!3m4!1s0x6019be576ccf2f3b:0xd91ad26902591504!8m2!3d35.0865301!4d139.0782484?hl=ja))  
-  * T.B.D(暫定は熱海トリックアート迷宮館とパラグライダー&他)
-  * [池袋駅西口](https://www.google.co.jp/maps/place/%E6%B1%A0%E8%A2%8B%E9%A7%85%E8%A5%BF%E5%8F%A3/@35.7311902,139.7069629,17z/data=!3m1!4b1!4m5!3m4!1s0x60188d5c3333028b:0xf1cd03825877d989!8m2!3d35.7311859!4d139.7091516?hl=ja)へ戻り、一緒に食事してから解散する。
+* 5/4日（パラグライダー&ACAO FOREST） 
+  * 午前中はパラグライダー体験(`劉は行かない`)、昼間は駅周辺で食事し、午後からはACAO FORESTへ向かう。
+  * 戻り(解散か池袋へ行くか当日に決める)。
 
 ## 交通
 * 5/3日   
@@ -30,7 +31,7 @@
 * 5/3日  
   * 場合によって、徒歩、電車、タクシーのいずれを利用する。 
 * 5/4日  
-  * 電車で池袋駅へ。
+  * 電車。
 
 ## 宿泊
 * 一泊目([プリンス　スマート　イン　熱海](https://www.google.co.jp/maps/place/%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9+%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88+%E3%82%A4%E3%83%B3+%E7%86%B1%E6%B5%B7/@35.1049517,139.0779583,17z/data=!4m18!1m7!3m6!1s0x6019be62c66fd8f7:0xaa6374c56fd20751!2z44CSNDEzLTAwMDUg6Z2Z5bKh55yM54ax5rW35biC5pil5pel55S677yR77yX!3b1!8m2!3d35.1049316!4d139.0802916!3m9!1s0x6019bfc8baad0db7:0xff38db5a690abc02!5m4!1s2022-05-02!2i2!4m1!1i2!8m2!3d35.1047767!4d139.0803131?hl=ja))    
@@ -63,5 +64,7 @@
 * [アタミシーズンホテル【伊東園リゾート】](https://www.jalan.net/uw/uwp3200/uww3201init.do?contHideFlg=1&smlCd=210202&yadNo=339986&stayYear=&stayMonth=&stayDay=&dateUndecided=1&roomCount=1&distCd=01&roomCrack=000000&screenId=UWW3101&planCd=03418773&roomTypeCd=0262125&planListNumPlan=19_0_5&groupBookingFlg=)
 ### 熱海トリックアート迷宮館
 * [熱海トリックアート迷宮館HP](http://atami-trickart.com/index.html)
-### MOA美術館
-* [MOA美術館HP](https://www.moaart.or.jp/access/)
+### パラフィールド
+* [パラフィールド](https://www.paraglider.co.jp/)
+### ACAO FOREST
+* [ACAO FOREST](https://acaoforest.jp/#map)
